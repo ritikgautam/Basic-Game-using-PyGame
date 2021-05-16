@@ -6,6 +6,8 @@ This Game consists of basics of game design with Python . We use PyGame module o
 
 
 <h1><b>Methods:</b></h1>
+
+
   Character Movement (Jumping, Walking etc.)
   
   
@@ -31,6 +33,8 @@ This Game consists of basics of game design with Python . We use PyGame module o
   
   
 <h1><b>Prerequisites</b></h1>
+
+
   It requires little knowledge of python or programming to follow along
   
   
