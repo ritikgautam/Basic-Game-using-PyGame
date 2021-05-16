@@ -10,15 +10,31 @@ This Game consists of basics of game design with Python . We use PyGame module o
   
   
   Animation of Objects
+  
+  
   Game Loops
+  
+  
   Collision and Hit-boxes
+  
+  
   Projectiles and Shooting
+  
+  
   Creating Enemies and Health Bars
+  
+  
   End Screens
+  
+  
   Game Optimization Using OOP
   
   
 <h1><b>Prerequisites</b></h1>
-  It requires little knowledge of python or programming to follow along.
+  It requires little knowledge of python or programming to follow along
+  
+  
   Basic Programming Knowledge
+  
+  
   Familiarity With Python 3 Syntax
