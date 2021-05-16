@@ -35,10 +35,10 @@ This Game consists of basics of game design with Python . We use PyGame module o
 <h1><b>Prerequisites:</b></h1>
 
 
-  It requires little knowledge of python or programming to follow along
-  
-  
-  Basic Programming Knowledge
-  
-  
-  Familiarity With Python 3 Syntax
+        It requires little knowledge of python or programming to follow along
+
+
+        Basic Programming Knowledge
+
+
+        Familiarity With Python 3 Syntax
