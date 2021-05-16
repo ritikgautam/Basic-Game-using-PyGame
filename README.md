@@ -1,3 +1,4 @@
+![pygame-general](https://user-images.githubusercontent.com/65151717/118398894-2d767200-b678-11eb-8f1c-5f76637af268.png)
 <h1><b>Basic-Game-using-PyGame</b></h1>
 
 
