@@ -1,4 +1,4 @@
-#Basic-Game-using-PyGame
+Basic-Game-using-PyGame
 
 
 #Overview
