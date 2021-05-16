@@ -1,7 +1,7 @@
 <h1><b>Basic-Game-using-PyGame</b></h1>
 
 
-#Overview
+<h1><b>Overview</b></h1>
 This Game consists of basics of game design with Python . We use PyGame module of Python to develop a basic 2D game.
 #Methods:
   Character Movement (Jumping, Walking etc.)
