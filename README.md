@@ -7,6 +7,8 @@ This Game consists of basics of game design with Python . We use PyGame module o
 
 <h1><b>Methods:</b></h1>
   Character Movement (Jumping, Walking etc.)
+  
+  
   Animation of Objects
   Game Loops
   Collision and Hit-boxes
