@@ -1,4 +1,4 @@
-Basic-Game-using-PyGame
+<h1><b>Basic-Game-using-PyGame</b></h1>
 
 
 #Overview
