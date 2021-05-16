@@ -32,7 +32,7 @@ This Game consists of basics of game design with Python . We use PyGame module o
   Game Optimization Using OOP
   
   
-<h1><b>Prerequisites</b></h1>
+<h1><b>Prerequisites:</b></h1>
 
 
   It requires little knowledge of python or programming to follow along
