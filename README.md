@@ -1,5 +1,5 @@
 ![pygame-general](https://user-images.githubusercontent.com/65151717/118398894-2d767200-b678-11eb-8f1c-5f76637af268.png)
-<h1><b>Basic-Game-using-PyGame</b></h1>
+<h3>Basic-Game-using-PyGame</h3>
 
 
 <h1><b>Overview</b></h1>
@@ -32,9 +32,6 @@ This Game consists of basics of game design with Python . We use PyGame module o
 
       Game Optimization Using OOP
       
-      
-<h1><b></b></h1>
-  ![pygame-general](https://user-images.githubusercontent.com/65151717/118398853-0455e180-b678-11eb-9bd9-b06e9ca5fff9.png)
 
   
 <h1><b>Prerequisites:</b></h1>
